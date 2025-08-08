@@ -1,0 +1,3 @@
+Contacts App backend written in Go.
+
+Work in progress...
